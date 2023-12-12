@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Recipes_App</string>
+    <string name="flan_chocolate_recipe">Bước 1: cho đường vào nồi hoặc chảo, đổ nước vào và lắc nhẹ để nước ngấm hết. Đun sôi hỗn hợp ở lửa vừa, sau khoảng 5–7 phút nước đường sẽ bắt đầu sôi, sủi bong bóng. Khoảng 10–15 phuút phần nước đường sẽ chuyển sang màu vàng nhạt và đậm dần thành màu cánh gián. Bước 2: …</string>
+    <string name="flan_chocolate">Bánh flan chocolate</string>
+    <string name="flan_chocolate_ing">8 quả trứng gà, 250ml sữa tươi không đường, 165gr đường trắng, 10ml nước, 200ml kem ưhipping, 1gr muối, 1 muỗng cà phê Vani, 55gr bột mì, 15gr bột cacao, 2gr bột cà phê, 20ml dầu ăn</string>
 </resources>
