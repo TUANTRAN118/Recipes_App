@@ -23,6 +23,7 @@ public class ListFoodActivity extends AppCompatActivity {
         // Lấy dữ liệu món ăn từ cơ sở dữ liệu hoặc nguồn dữ liệu khác
         listOfFoods = getFoodsForCategory("BANH_NGOT");
 
+
         // Hiển thị danh sách món ăn trong ListView
         listViewFoods = findViewById(R.id.listView);
         ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, listOfFoods);
